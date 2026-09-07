@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "bf6937e181a65cd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "28b4311ccc0834b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b46abf4fe987c02",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd1696da567e1041",
+    "type": "split",
+    "children": [
+      {
+        "id": "93ded5b408a69d4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac53fb11b1cda3ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e8cf598df7b8bb72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bb4b4d490839fb1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa1ba9fc5ec5e684",
+    "type": "split",
+    "children": [
+      {
+        "id": "12c19c91261b771d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a3c9d37fa131f6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dec7fc9e30827d41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "242fd349f90cfd39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "97f31ff402cb6373",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f417ceedf09d9dce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7b46abf4fe987c02",
+  "lastOpenFiles": [
+    "electronics-current-ripple-calculation.md",
+    "electronics-esr.md",
+    "electronics-esl.md",
+    "electronics-snubber-capacitor.md",
+    "parasitic-inductance.md",
+    "electronics-dc-link-capacitor.md",
+    "electronics-cap-roles-in-inverters.md",
+    "capacitor-roles-in-inverters.md",
+    "1788783405-KMJF.md",
+    "1788784051-CGKW.md",
+    "1788783698-QJTV.md",
+    "1788781765-WQGV.md",
+    "article-capacitors-in-inverters.md",
+    "obsidian-config.md",
+    "Welcome.md",
+    "obsidian-config"
+  ]
+}
