@@ -2,7 +2,8 @@
 id: article-current-sensing-techniques-motor-control-applications
 aliases:
   - article-current-sensing-techniques-motor-control-applications
-tags: []
+tags:
+  - source-electronics
 ---
 # Source File: NXP Semiconductors Application Note AN14164
 

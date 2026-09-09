@@ -2,7 +2,8 @@
 id: article-capacitors-in-inverters
 aliases:
   - article-capacitors-in-inverters
-tags: []
+tags:
+  - source-electronics
 ---
 # Article about capacitor types in inverter circuits
 

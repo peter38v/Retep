@@ -2,7 +2,8 @@
 id: article-transportation-electric-signals
 aliases:
   - article-transportation-electric-signals
-tags: []
+tags:
+  - source-electronics
 ---
 # Source file for the transport of electric signals
 
