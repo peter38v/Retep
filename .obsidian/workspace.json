@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "28b4311ccc0834b8",
+        "id": "888f5cf5e80a6296",
         "type": "tabs",
         "children": [
           {
-            "id": "7b46abf4fe987c02",
+            "id": "017af2eb0bfaab0c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -184,23 +184,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "7b46abf4fe987c02",
+  "active": "017af2eb0bfaab0c",
   "lastOpenFiles": [
+    "electronics-supply-droop.md",
+    "electronics-loop-inductance.md",
+    "Welcome.md",
+    "obsidian-config.md",
+    "electronics-ic-driver-peak-current-why-matters.md",
+    "electronics-ic-driver-sink-current.md",
+    "electronics-ic-driver-source-current.md",
+    "electronics-ic-driver-tpc.md",
+    "electronics-ic-driver-protection-response-time.md",
+    "electronics-ic-driver-gate-voltage.md",
+    "electronics-ic-driver-cmti.md",
+    "electronics-ic-driver-dsj.md",
+    "electronics-ic-driver-uvlo.md",
+    "electronics-ic-driver-current.md",
+    "electronics-ic-driver-design-pitfalls.md",
+    "electronics-ic-driver-selection-specs.md",
+    "electronics-ic-driver-application.md",
+    "electronics-ic-driver-interface-timing.md",
+    "electronics-ic-driver-protection-control.md",
+    "electronics-ic-driver-isolation-integration.md",
+    "electronics-ic-driver-switch-technologies.md",
+    "electronics-ic-driver-topologies.md",
+    "article-ic-drivers.md",
     "electronics-current-ripple-calculation.md",
     "electronics-esr.md",
     "electronics-esl.md",
-    "electronics-snubber-capacitor.md",
-    "parasitic-inductance.md",
-    "electronics-dc-link-capacitor.md",
-    "electronics-cap-roles-in-inverters.md",
-    "capacitor-roles-in-inverters.md",
-    "1788783405-KMJF.md",
-    "1788784051-CGKW.md",
-    "1788783698-QJTV.md",
-    "1788781765-WQGV.md",
-    "article-capacitors-in-inverters.md",
-    "obsidian-config.md",
-    "Welcome.md",
     "obsidian-config"
   ]
 }
