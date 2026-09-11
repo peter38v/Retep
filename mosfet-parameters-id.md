@@ -9,5 +9,6 @@ tags: []
 - Is heavily dependent on Junction Temperature
 - Check graph of Continous drain current vs temperature
 - Higher ID -> higher currents it can push through
->[!Warning] Safety Measure -> do the Thermal [Calculation](mosfet-calculation-losses)
-
+>[!Warning] 
+> Safety Measure -> do the [Thermal](mosfet-calculation-losses) calculation
+> AND the [Peak phase current](mosfet-peak-phase-current-calculation) calculation

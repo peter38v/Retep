@@ -27,6 +27,7 @@ Imagine reusing code, just for schematic design
 1. Place all components in desired layout (including edge cuts)
 2. Select Grouping -> Right click -> save link to design block
 Tada
+3. If it does not allow option, group everything -> go to the right side panel and right click there to update it
 ## How to load
 1. Open design-blocks in side panel (PCB making)
 2. Drag it in
