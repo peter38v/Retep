@@ -12,7 +12,7 @@ Method:
 1. Find desired DC-bus peak continous current (I_dc)
 2. Do estimation calculation
 
-I_phase_peak ~= I_dc/(D*sqrt(3)*cos(theta))
+I_phase_peak ~= I_dc/(D * sqrt(3) * cos(theta))
 
     where:
     D = Effective Duty Cycly

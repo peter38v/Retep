@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#daily-notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,6 +187,11 @@
   },
   "active": "017af2eb0bfaab0c",
   "lastOpenFiles": [
+    "index-main.md~",
+    "2026-09-12.md",
+    "electronics-cap-roles-in-inverters.md",
+    "electronics-dc-link-capacitor.md",
+    "electronics-current-ripple-calculation.md",
     "signals-and-systems-real-and-imaginary.md",
     "signals-and-systems-energy-and-power.md",
     "signals-and-systems-periodic-and-aperiodic.md",
@@ -214,11 +220,6 @@
     "assets/Pasted image 20260910160731.png",
     "assets/Pasted image 20260910160046.png",
     "assets/Pasted image 20260910155714.png",
-    "electronics-mosfet-gate-source-voltage.md",
-    "electronics-mosfet-gate-source-thr-voltage.md",
-    "electronics-junction-temperature.md",
-    "mosfet-parameters-vdsbrl.md",
-    "mosfet-parameters.md",
     "assets/Pasted image 20260909181847.png",
     "assets/Pasted image 20260909181431.png",
     "assets/Pasted image 20260909181142.png",
