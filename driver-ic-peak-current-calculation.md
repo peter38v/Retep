@@ -7,14 +7,17 @@ tags: []
 # Calculate for Peak Current
 
 
-$ I_g = \frac{\Delta V_{gsDatasheet}}{R_{G,datasheet}+R_{G,int}}$
+$$
+I_g = \frac{\Delta V_{gsDatasheet}}{R_{G,datasheet}+R_{G,int}}
+$$
 
 
 where,
 
 
+$$
+\Delta V_{gsDatasheet} = V_{gs(on)} - V_{gs(off)}
+$$
 
-$\Delta V_{gsDatasheet} = V_{gs(on)} - V_{gs(off)}$
-
-
+[next](driver-ic-gate-resistor-calculation)
 

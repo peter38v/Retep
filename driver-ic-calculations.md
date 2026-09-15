@@ -9,4 +9,6 @@ tags: []
 
 # Calculations
 [[driver-ic-peak-current-calculation]]
+[[driver-ic-gate-resistor-calculation]]
+[[driver-ic-power-dissipation-calculation]]
 
