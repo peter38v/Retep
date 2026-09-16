@@ -17,9 +17,12 @@ $$
 R_{G,application} = \frac{\Delta V_{GS,application} * (t_r + t_{d(on)})}{Q_G} - R_{G,int}
 $$
 
+where,
+
+$V_{gs}$ is Voltage difference gate to how much driver IC puts it to
+
+$t_r$ is the variable -> How fast do you want to switch??
 >[!Important]:
-- Extract $Q_G$ from the gate-charge diagram in the datasheet of MOSFET
-- Select the points for voltages $V_{VEE2}$ & $V_{VCC2}$ -> Read values for off and on-state gate charges
-- Then calculate $Q_G$ as a difference between the 2 charges
+- Perchance spec it to max Source Current the driver IC can handle [back](driver-ic-peak-current-calculation)
 
 [next](driver-ic-power-dissipation-calculation)

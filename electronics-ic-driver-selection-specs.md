@@ -5,7 +5,9 @@ aliases:
 tags: []
 ---
 # How to make sure the selection be goated
-
+Steps:
+- Check $R_{ds(on)}$ graph of MOSFET <- Shows how much output the driver needs to supply
+[[driver-ic-calculations]]
 ## Notes
 [[electronics-ic-driver-current]] <- Current specs
 [[electronics-ic-driver-uvlo]] <- Under Voltage (UVLO) Treshholds
