@@ -15,7 +15,6 @@ Method:
 $$
 I_{phase(peak)} ~= \frac {I_{dc}} {D * \sqrt{3} * cos(\theta)}
 $$
-
 where:
 
 D = Effective Duty Cycly

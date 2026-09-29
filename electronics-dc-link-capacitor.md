@@ -9,6 +9,8 @@ tags: []
 
 Breakdown of: [Spectre-Engineering](https://www.specterengineering.com/blog/2019/9/7/dc-link-capacitor-selection-for-your-inverter)
 
+[[electronics-dc-link-calc|Calculations]]
+
 *Jobs*:
 
 - Provide low-impedance path for high-frequency currents (freq up, battery impedance up, cap impedance down)
