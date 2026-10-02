@@ -5,6 +5,7 @@ aliases:
 tags: []
 ---
 # Kicad Design Blocks how to
+[Article](https://forum.kicad.info/t/pcb-design-block-usage/64686)
 
 ## What is design block?
 Design blocks are reusable schematic+pcb configuration.
